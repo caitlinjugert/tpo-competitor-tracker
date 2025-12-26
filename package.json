@@ -1,0 +1,19 @@
+{
+  "name": "tpo-competitor-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "cheerio": "^1.0.0-rc.12",
+    "next": "14.2.25",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "xlsx": "^0.18.5"
+  }
+}
